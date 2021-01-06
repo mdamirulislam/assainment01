@@ -1,0 +1,159 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+
+
+
+.nav{
+    text-decoration: none;
+    color: black;
+    font-size: 15px;
+    float: right;
+    margin: 10px;
+    margin-right: 20px;
+    padding-bottom: 20px;
+    height: 50px;
+}
+
+section{
+    height: 400px;
+    padding-top: 100px;
+}
+  
+h1{
+    font-size: 100px;
+    font-family: 'Oswald', sans-serif;
+    margin: 2px;
+    margin-left: 50px;
+ 
+}
+h2{
+    font-size: 50px
+}
+
+.half-width{
+    width:38%;
+    float: left;
+    height: 500px;
+}
+.dabo{
+    padding-left: 200px;
+
+}
+.profile-one{
+    width: 600px;
+    padding-left: 300px;
+}
+.profile-two{
+    width: 600px;
+    padding-left:100px;
+    margin-right: 100px
+   ;
+    
+}
+.secend-sec{
+    margin-top:300px; 
+   
+}
+#last-sec{
+    height: 500px;
+    
+    
+}
+
+
+.high-light{
+    color: orange;
+}
+.pera-one{
+    margin-top: 20px;
+    padding-bottom: 50px;
+    margin-left: 50px;
+}
+.link{
+    color: white;
+    background-color: orange;
+    text-decoration: none;
+    padding: 10px 50px ;
+    border-radius: 10PX;
+    margin: 80px;
+   font-size: 20px;
+  
+}
+
+#pera{
+    margin-bottom: 100px;
+}
+.part-one{
+    margin-top: 200px;
+    margin-left: 50px
+}
+
+
+.box{
+    width:300px;
+   margin-left: 20px;
+   box-shadow: 2px 2px 45px;
+   border-radius: 10px;
+ 
+
+}
+#sample{
+    margin-left: 350px;
+}
+#end{
+  background-color: gray;
+    margin-top:500px;
+}
+#end-h{
+    text-align: center;
+}
+
+#work{
+    text-decoration: none;
+    color:red;
+  
+    
+}
+#solve-l{
+    text-decoration: none;
+    color:white;
+    background-color: orange;
+    height: 30px;
+    width: 100px;
+    padding: 5px;
+    padding-left: 15px;
+    border-radius: 10px;
+    text-align: center;
+}
+#ana-amirul{
+background-image: url(image/Group_33094_1.png);
+width: 100px;
+height: 300px;
+border-radius: 10%;
+margin: 100px;
+margin-left: 500px;
+}
+h3{
+    font-size: 30px;
+    text-align: center;
+    color:red;
+    text-decoration: none;
+}
+
+.non{text-align: center;
+   
+}
+#mina-mina{
+    text-decoration: none;
+}
+
+.copyright{
+    text-align: center;
+    font-size: 12px;
+}
+
+
+
+
