@@ -48,8 +48,8 @@ h2{
 .profile-two{
     width: 600px;
     padding-left:100px;
-    margin-right: 100px
-   ;
+    margin-right: 100px ;
+    
     
 }
 .secend-sec{
@@ -92,10 +92,14 @@ h2{
 
 
 .box{
-    width:300px;
+   width:300px;
+   padding-bottom: 100px;
+   margin-bottom: 100px;
+   background-color: white;
    margin-left: 20px;
    box-shadow: 2px 2px 45px;
    border-radius: 10px;
+
  
 
 }
@@ -103,6 +107,7 @@ h2{
     margin-left: 350px;
 }
 #end{
+  height: 500px;
   background-color: gray;
     margin-top:500px;
 }
@@ -152,6 +157,12 @@ h3{
 .copyright{
     text-align: center;
     font-size: 12px;
+}
+
+#hero{
+    background-size: cover;
+    height: 200px;
+    clear: both;
 }
 
 
